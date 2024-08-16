@@ -1,8 +1,8 @@
 # Building "Groot": A Git-like Version Control System
 
-[![progress-banner](https://backend.codecrafters.io/progress/git/4cf025bd-885f-4546-ac5a-c78a1bb8270e)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
+[![progress-banner](https://backend.codecrafters.io/progress/git/4cf025bd-885f-4546-ac5a-c78a1bb8270e)]
 
-This repository serves as a starting point for the open-source solution to the ["Build Your Own Git"](https://codecrafters.io/challenges/git) challenge.
+This repository serves as a starting point for the open-source solution to the ["Build Your Own Git"].
 
 In this project, I'm building "Groot," a lightweight version control system that mirrors the functionality of Git. Groot will be able to initialize a repository, create commits, and clone public repositories, just like Git. Through this, we'll explore the intricacies of version control systems, including the `.groot` directory, version control objects (blobs, commits, trees), and the transfer protocols that enable repository cloning and management.
 
