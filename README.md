@@ -1,27 +1,22 @@
+# Building "Groot": A Git-like Version Control System
+
 [![progress-banner](https://backend.codecrafters.io/progress/git/4cf025bd-885f-4546-ac5a-c78a1bb8270e)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
 
-This is a starting point for Open Source solutions to the
-["Build Your Own Git"](https://codecrafters.io/challenges/git).
+This repository serves as a starting point for the open-source solution to the ["Build Your Own Git"](https://codecrafters.io/challenges/git) challenge.
 
-In this challenge, you'll build a small Git implementation that's capable of
-initializing a repository, creating commits and cloning a public repository.
-Along the way we'll learn about the `.git` directory, Git objects (blobs,
-commits, trees etc.), Git's transfer protocols and more.
+In this project, I'm building "Groot," a lightweight version control system that mirrors the functionality of Git. Groot will be able to initialize a repository, create commits, and clone public repositories, just like Git. Through this, we'll explore the intricacies of version control systems, including the `.groot` directory, version control objects (blobs, commits, trees), and the transfer protocols that enable repository cloning and management.
 
-# Testing locally
+## Testing Locally
 
-The `your_program.sh` script is expected to operate on the `.git` folder inside
-the current working directory. 
+To test locally, the `your_program.sh` script should operate on the `.git` folder inside the current working directory.
+
+You can initialize a new Groot repository using the following command:
 
 ```sh
 mkdir -p /tmp/testing && cd /tmp/testing
 /path/to/your/repo/your_program.sh init
-```
 
-To make this easier to type out, you could add a
-[shell alias](https://shapeshed.com/unix-alias/):
 
-```sh
 alias mygit=/path/to/your/repo/your_program.sh
 
 mkdir -p /tmp/testing && cd /tmp/testing
