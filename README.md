@@ -1,4 +1,4 @@
-# Building "Groot": A Git-like Version Control System
+# Building `Groot`: A Version Control System like `Git`
 
 ![progress-banner](https://backend.codecrafters.io/progress/git/4cf025bd-885f-4546-ac5a-c78a1bb8270e)
 
