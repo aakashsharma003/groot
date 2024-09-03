@@ -1,6 +1,6 @@
 # Building `Groot`: A Version Control System like `Git`
 
-![progress-banner](https://backend.codecrafters.io/progress/git/4cf025bd-885f-4546-ac5a-c78a1bb8270e)
+![progress-banner](https://backend.codecrafters.io/progress/git/4cf025bd-885f-4546-ac5a-c78a1bb8270q)
 
 This repository serves as a starting point for the open-source solution to the ["Build Your Own Git"](https://git-scm.com/).
 
