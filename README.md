@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/231eb422-c286-4c29-a662-84bb778dd6fd
+
+
 # Building `Groot`: A Version Control System like `Git`
 
 This repository serves as a starting point for the open-source solution to the ["Build Your Own Git"](https://git-scm.com/).
